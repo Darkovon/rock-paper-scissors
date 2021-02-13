@@ -1,0 +1,1 @@
+This is my rock, paper, scissors project. I will be using a few functions and loops to create a game that is playable via user input in the js console.
